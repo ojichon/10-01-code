@@ -1,0 +1,1 @@
+So far we've gone over conditionals and loops. What i found most challenging is conditionals and ironically the array loops are what im more familiar with.
